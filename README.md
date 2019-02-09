@@ -8,6 +8,13 @@ Knowledge-base for frappe and Erpnext
 from IPython.core.display import display, HTML
 display(HTML('<h1>Hello, world!</h1>'))
 ```
+### debugger
+```
+from IPython.core.debugger import set_trace
+...
+set_trace()
+```
+
 
 ## localtunnel.me
 access localhost from internet
