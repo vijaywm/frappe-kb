@@ -3,7 +3,7 @@
 Knowledge-base for frappe and Erpnext
 
 ## Jupyter
-[HTML in cell]https://stackoverflow.com/questions/25698448/how-to-embed-html-into-ipython-output
+[HTML in cell](https://stackoverflow.com/questions/25698448/how-to-embed-html-into-ipython-output)
 ```
 from IPython.core.display import display, HTML
 display(HTML('<h1>Hello, world!</h1>'))
